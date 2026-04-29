@@ -147,6 +147,8 @@ The application follows an **object-oriented, modular design**:
 <img width="836" height="575" alt="image" src="https://github.com/user-attachments/assets/4d0fb291-2ec1-454a-96db-7ddc57ecaf1b" />
 
 
+<img width="1672" height="755" alt="ss1" src="https://github.com/user-attachments/assets/349b5da5-c1e6-4a7a-9e30-b1b6a1095f3f" />
+
 ---
 
 ## 🚀 Future Enhancements
